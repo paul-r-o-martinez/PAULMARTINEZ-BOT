@@ -1,0 +1,12 @@
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\bin\Debug\netcoreapp2.0\PAULMARTINEZ-BOT.bot
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\bin\Debug\netcoreapp2.0\BasicBot.deps.json
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.json
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.dev.json
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\bin\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\bin\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\obj\Debug\netcoreapp2.0\BasicBot.csprojAssemblyReference.cache
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\obj\Debug\netcoreapp2.0\BasicBot.csproj.CoreCompileInputs.cache
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfoInputs.cache
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\obj\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\paul.r.o.martinez\Downloads\PAULMARTINEZ-BOT-src\obj\Debug\netcoreapp2.0\BasicBot.pdb
